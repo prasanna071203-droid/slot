@@ -113,7 +113,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-(<Screenshot 2025-11-28 162235.png>)
+<img width="1286" height="957" alt="Screenshot 2025-11-28 162235" src="https://github.com/user-attachments/assets/d5838e14-afac-4a50-a5e7-a2d9dd41d601" />
+
 
 
 ## RESULT
